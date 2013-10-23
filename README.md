@@ -12,7 +12,7 @@ At this point, this package would help you a lot. For example, if you have some 
 
 Usage    
 1. You should configure your OpenCV correctly. I only use the functions and definitions of OpenCV 1.0, and thus you won't worry too much about the version being incompatible.   
-2. According your requirements and specific cases, set the three macro definitions in batch_crop.cpp.   
+2. According your requirements and specific cases, set the three macro definitions in batch_cropping.cpp.   
 3. Run.
 
 Btw, this program is finished on Win7, 32 bit, VS2010 + OpenCV 2.3.1. I cannot guarantee it is compatible on other platforms. If you have successfully compiled this project under other environments or configurations, please feel free to contact me.
